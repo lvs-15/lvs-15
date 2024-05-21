@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+meu nome é Lorena Viana
+-estou estudando na alura
+-estou me desenvolvendo JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 <!--
 **lvs-15/lvs-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
